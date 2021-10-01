@@ -1,0 +1,23 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                //"${default}",
+                "${workspaceFolder}",
+                "${workspaceFolder}/inc/",
+                "C:/CIAA/firmware_v3/libs/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "gcc-arm",
+            "compilerPath": "\"C:\\CIAA\\CIAA_Software_1.1-Win\\tools\\arm-none-eabi-gcc\\bin\\arm-none-eabi-gcc.exe\""
+        }
+    ],
+    "version": 4
+}
